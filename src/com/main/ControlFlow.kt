@@ -47,7 +47,4 @@ fun main(args: Array<String>){
      *  check directly number is odd or even from when
      */
 
-    when(y){
-
-    }
 }
