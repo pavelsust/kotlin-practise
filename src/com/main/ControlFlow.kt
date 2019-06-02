@@ -44,7 +44,14 @@ fun main(args: Array<String>){
     }
 
     /**
-     *  check directly number is odd or even from when
+     * while loop
      */
+
+    var anotherNumber = 10;
+
+    while (anotherNumber>0){
+        println(anotherNumber)
+        anotherNumber--;
+    }
 
 }
