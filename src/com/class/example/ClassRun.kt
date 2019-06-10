@@ -4,7 +4,7 @@ import kotlin.contracts.contract
 
 fun main(args: Array<String>){
 
-    var myTestClass = MyClass("pavel" , 20);
+    var myTestClass = MyClass("pavel" , "school" , "college" , 1);
     myTestClass.checkNumber()
 
 

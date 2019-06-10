@@ -6,6 +6,12 @@ fun main(args: Array<String>){
     var number_1 =19;
     var number_2 = 20;
 
+
+    var cheeck = if(number_1>number_2) true else false
+
+    println(cheeck)
+
+
     var find = if (number_1>number_2) number_1 else number_2;
     println(find);
 
@@ -28,6 +34,14 @@ fun main(args: Array<String>){
         3 -> println("found 3")
         4 -> println("found 4")
         else -> println("not found")
+    }
+
+
+    var a_number = 3
+
+    when(a_number){
+        2 -> println("found 2")
+        3 -> println("found 3")
     }
 
 
