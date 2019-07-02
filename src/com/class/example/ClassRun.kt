@@ -8,8 +8,7 @@ fun main(args: Array<String>){
     myTestClass.checkNumber()
 
 
-    var myCar = Car(10, "robin")
-    myCar.printAll()
-
+    var car = Car("name" , 2 , "test")
+    car.printAll()
 
 }
