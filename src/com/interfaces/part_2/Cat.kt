@@ -1,6 +1,7 @@
 package com.interfaces.part_2
 
-class Cat : Animal {
+class Cat : Animal, BodyInterface {
+
     override var animalName: String = "Cat"
 
     override fun animalName() {
@@ -8,9 +9,9 @@ class Cat : Animal {
     }
 
     override fun eat(age: Int) {
-        if (age>2){
+        if (age > 2) {
             println("Yes it can eat")
-        }else{
+        } else {
             println("No cat can't eat")
         }
     }
@@ -20,7 +21,14 @@ class Cat : Animal {
     }
 
     override fun isCanRun(age: Int): Boolean {
-        var run = age>=10
-        return run
+        return age >= 10
+    }
+
+    override fun numberOfEyes(eyes: Int) {
+        println("$animalName has $eyes")
+    }
+
+    override fun numberOfLegs(legs: Int) {
+        println("$animalName has $legs")
     }
 }
