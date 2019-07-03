@@ -5,9 +5,8 @@ interface Animal {
     var animalName: String
 
     fun animalName()
-    fun eat()
-    fun run()
-    fun isTeeth(numberOfTeeth: Int)
-    fun isCanRun(isRun: Boolean)
+    fun eat(age: Int)
+    fun numberOfTeeth(teeth: Int)
+    fun isCanRun(age:Int): Boolean
 
 }
