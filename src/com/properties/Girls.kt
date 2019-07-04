@@ -13,8 +13,12 @@ class Girls {
 
     var actualAge: Int? = null
 
-}
+    fun checkit(number:Int): IntRange {
+        var number = 10..18
+        return number
+    }
 
+}
 
 fun main (array: Array<String>){
     var lia = Girls();
