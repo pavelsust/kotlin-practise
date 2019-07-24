@@ -38,3 +38,4 @@ fun check(number: Int): Boolean {
 fun againcheck(number: Int): Boolean {
     return number == 4
 }
+
