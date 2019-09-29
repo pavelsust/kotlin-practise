@@ -20,6 +20,8 @@ class UseClasses {
 fun main (array: Array<String>){
     var useClasses = UseClasses()
 
+    var value = 0
+
     useClasses.useAbstract(object : AAbstractClass(){
         override fun doSomething(number: Int) {
             println("do something $number")
@@ -27,6 +29,8 @@ fun main (array: Array<String>){
 
         override fun isIamDoingSomething() {
             super.isIamDoingSomething()
+            value++
+            println("Value is $value")
         }
     })
 
