@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="331fb7a5-2c38-420d-8b3b-319642800ece" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/delegation/D2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/delegation/DPractise.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lamda/LamdaExample.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/FirstProject/META-INF/FirstProject.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstProject/META-INF/FirstProject.kotlin_module" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,7 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.delegation.D2Kt">
+  <component name="RunManager" selected="Kotlin.com.lamda.LamdaExampleKt">
     <configuration type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="FirstProject" />
       <option name="VM_PARAMETERS" value="" />
@@ -94,14 +94,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.objectclass.UsageClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.lamda.LamdaExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="FirstProject" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.objectclass.UsageClassKt" />
+      <option name="MAIN_CLASS_NAME" value="com.lamda.LamdaExampleKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -134,19 +134,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.com.objectclass.UsageClassKt" />
       <item itemvalue="Kotlin.com.objectclass.UseClassesKt" />
       <item itemvalue="Kotlin.com.sealed.SealedDataKt" />
       <item itemvalue="Kotlin.com.delegation.DPractiseKt" />
       <item itemvalue="Kotlin.com.delegation.D2Kt" />
+      <item itemvalue="Kotlin.com.lamda.LamdaExampleKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.lamda.LamdaExampleKt" />
         <item itemvalue="Kotlin.com.delegation.D2Kt" />
         <item itemvalue="Kotlin.com.delegation.DPractiseKt" />
         <item itemvalue="Kotlin.com.sealed.SealedDataKt" />
         <item itemvalue="Kotlin.com.objectclass.UseClassesKt" />
-        <item itemvalue="Kotlin.com.objectclass.UsageClassKt" />
       </list>
     </recent_temporary>
   </component>
@@ -175,17 +175,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/com/delegation/DPractise.kt</url>
-          <line>25</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
