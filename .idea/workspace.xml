@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="331fb7a5-2c38-420d-8b3b-319642800ece" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/lamda/Example2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection/ListExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection/MapExample.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/FirstProject/META-INF/FirstProject.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstProject/META-INF/FirstProject.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/com/class/example/MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstProject/com/class/example/MyClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/com/lamda/LamdaExampleKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstProject/com/lamda/LamdaExampleKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/com/main/ReturnAndLabelKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstProject/com/main/ReturnAndLabelKt.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,19 +19,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/lamda/Example2.kt">
+        <entry file="file://$PROJECT_DIR$/src/com/collection/MapExample.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lamda/LamdaExample.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            <state relative-caret-position="220">
+              <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -63,14 +51,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/lamda/Example2.kt" />
+        <option value="$PROJECT_DIR$/src/com/collection/ConstratingCollectin.kt" />
+        <option value="$PROJECT_DIR$/src/com/collection/ListExample.kt" />
+        <option value="$PROJECT_DIR$/src/com/collection/MapExample.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2194" />
-    <option name="y" value="-321" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2127" />
+    <option name="y" value="-179" />
     <option name="width" value="1026" />
-    <option name="height" value="554" />
+    <option name="height" value="852" />
   </component>
   <component name="ProjectId" id="1S6uJy62TfCBwFxmSgzSI9XQVXA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -82,6 +73,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -105,20 +97,12 @@
               <item name="kotlin-practise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="lamda" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin-practise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin-practise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -140,7 +124,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.lamda.Example2Kt">
+  <component name="RunManager" selected="Kotlin.com.collection.MapExampleKt">
     <configuration type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="FirstProject" />
       <option name="VM_PARAMETERS" value="" />
@@ -154,27 +138,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.delegation.D2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.collection.ConstratingCollectinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="FirstProject" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.delegation.D2Kt" />
+      <option name="MAIN_CLASS_NAME" value="com.collection.ConstratingCollectinKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.delegation.DPractiseKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.collection.ListExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="FirstProject" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.delegation.DPractiseKt" />
+      <option name="MAIN_CLASS_NAME" value="com.collection.ListExampleKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.collection.MapExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="FirstProject" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.collection.MapExampleKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -206,33 +203,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.sealed.SealedDataKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="FirstProject" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.sealed.SealedDataKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Kotlin.com.sealed.SealedDataKt" />
-      <item itemvalue="Kotlin.com.delegation.DPractiseKt" />
-      <item itemvalue="Kotlin.com.delegation.D2Kt" />
       <item itemvalue="Kotlin.com.lamda.LamdaExampleKt" />
       <item itemvalue="Kotlin.com.lamda.Example2Kt" />
+      <item itemvalue="Kotlin.com.collection.ConstratingCollectinKt" />
+      <item itemvalue="Kotlin.com.collection.ListExampleKt" />
+      <item itemvalue="Kotlin.com.collection.MapExampleKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.collection.MapExampleKt" />
+        <item itemvalue="Kotlin.com.collection.ListExampleKt" />
+        <item itemvalue="Kotlin.com.collection.ConstratingCollectinKt" />
         <item itemvalue="Kotlin.com.lamda.Example2Kt" />
         <item itemvalue="Kotlin.com.lamda.LamdaExampleKt" />
-        <item itemvalue="Kotlin.com.delegation.D2Kt" />
-        <item itemvalue="Kotlin.com.delegation.DPractiseKt" />
-        <item itemvalue="Kotlin.com.sealed.SealedDataKt" />
       </list>
     </recent_temporary>
   </component>
@@ -250,31 +234,31 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-312" width="1936" height="1066" extended-state="6" />
+    <frame x="2127" y="-179" width="1026" height="852" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.054865424" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3290461" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3290461" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31849793" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978564" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.03215434" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3290461" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -317,8 +301,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/lamda/LamdaExample.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        <state relative-caret-position="300">
+          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -326,6 +310,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection/ConstratingCollectin.kt" />
+    <entry file="file://$PROJECT_DIR$/src/com/collection/ListExample.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection/MapExample.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
         </state>
       </provider>
     </entry>
