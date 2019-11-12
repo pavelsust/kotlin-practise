@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="331fb7a5-2c38-420d-8b3b-319642800ece" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/corotines/SyncWithStyle.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,10 +18,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/corotines/SuncCorrotines.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="457">
+              <caret line="50" column="44" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
               <folding>
-                <element signature="e#23#200#0" expanded="true" />
+                <element signature="e#23#241#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -104,14 +103,14 @@
         <option value="$PROJECT_DIR$/src/com/corotines/ClosingCorotinesResources.kt" />
         <option value="$PROJECT_DIR$/src/com/corotines/CorotinesExample.kt" />
         <option value="$PROJECT_DIR$/src/com/corotines/DispacherExample.kt" />
-        <option value="$PROJECT_DIR$/src/com/corotines/SuncCorrotines.kt" />
         <option value="$PROJECT_DIR$/src/com/corotines/SyncWithStyle.kt" />
+        <option value="$PROJECT_DIR$/src/com/corotines/SuncCorrotines.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1310" />
-    <option name="y" value="-227" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1361" />
+    <option name="y" value="-271" />
     <option name="width" value="1210" />
     <option name="height" value="983" />
   </component>
@@ -294,10 +293,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1310" y="-227" width="1210" height="983" extended-state="0" />
+    <frame x="1358" y="-312" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22956522" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14072494" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -310,7 +309,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.42352942" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.115755625" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32583067" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -424,10 +423,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/corotines/SuncCorrotines.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="457">
+          <caret line="50" column="44" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
           <folding>
-            <element signature="e#23#200#0" expanded="true" />
+            <element signature="e#23#241#0" expanded="true" />
           </folding>
         </state>
       </provider>
