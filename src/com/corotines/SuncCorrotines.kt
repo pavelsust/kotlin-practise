@@ -1,5 +1,6 @@
 package com.corotines
 
+import kotlinx.coroutines.CoroutineStart
 import kotlinx.coroutines.async
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.runBlocking
@@ -30,6 +31,21 @@ fun main() = runBlocking{
 
         println("The answer is ${one +two}")
     }
+
+
+    val time3 = measureTimeMillis {
+
+        var one = async(start = CoroutineStart.LAZY){ doSomethingOne()}
+        var two = async (start = CoroutineStart.LAZY){ doSomethingTwo()}
+
+        // need to start the function to call
+        one.start()
+        two.start()
+
+        println("The answer is ${one.await() + two.await()}")
+    }
+
+    println("Complete time is $time3 in ms")
 
     println("Process complete in $time ms")
     println("Process complete in $time2 ms")

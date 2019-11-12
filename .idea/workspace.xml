@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="331fb7a5-2c38-420d-8b3b-319642800ece" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corotines/ClosingCorotinesResources.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corotines/DispacherExample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corotines/SuncCorrotines.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corotines/SyncWithStyle.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/META-INF/FirstProject.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstProject/META-INF/FirstProject.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/com/corotines/CorotinesExampleKt$blockThread$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/com/corotines/CorotinesExampleKt$blockThread$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/com/corotines/CorotinesExampleKt$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/com/corotines/CorotinesExampleKt$main$job$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/com/corotines/CorotinesExampleKt$show$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/com/corotines/CorotinesExampleKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corotines/CorotinesExample.kt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,11 +19,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/corotines/SuncCorrotines.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="30" column="44" lean-forward="true" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+            <state relative-caret-position="42">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="e#23#200#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/corotines/SyncWithStyle.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -107,6 +105,7 @@
         <option value="$PROJECT_DIR$/src/com/corotines/CorotinesExample.kt" />
         <option value="$PROJECT_DIR$/src/com/corotines/DispacherExample.kt" />
         <option value="$PROJECT_DIR$/src/com/corotines/SuncCorrotines.kt" />
+        <option value="$PROJECT_DIR$/src/com/corotines/SyncWithStyle.kt" />
       </list>
     </option>
   </component>
@@ -298,20 +297,20 @@
     <frame x="1310" y="-227" width="1210" height="983" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22956522" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22956522" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993559" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.03215434" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.42352942" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32583067" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -416,10 +415,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/corotines/SyncWithStyle.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/corotines/SuncCorrotines.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="30" column="44" lean-forward="true" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+        <state relative-caret-position="42">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="e#23#200#0" expanded="true" />
           </folding>
