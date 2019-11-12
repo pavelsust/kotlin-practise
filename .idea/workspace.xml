@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="331fb7a5-2c38-420d-8b3b-319642800ece" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_jetbrains_kotlinx_kotlinx_coroutines_core_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corotines/CorotinesCancelNot.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corotines/CorotinesExample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corotines/CortinesCancelExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corotines/ClosingCorotinesResources.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corotines/DispacherExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corotines/SuncCorrotines.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/FirstProject/META-INF/FirstProject.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstProject/META-INF/FirstProject.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/com/corotines/CorotinesExampleKt$blockThread$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/com/corotines/CorotinesExampleKt$blockThread$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/com/corotines/CorotinesExampleKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/com/corotines/CorotinesExampleKt$main$job$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/com/corotines/CorotinesExampleKt$show$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/com/corotines/CorotinesExampleKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/corotines/CorotinesExample.kt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,14 +27,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/corotines/CorotinesExample.kt">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/corotines/SuncCorrotines.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            <state relative-caret-position="360">
+              <caret line="30" column="44" lean-forward="true" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
               <folding>
-                <element signature="e#23#163#0" expanded="true" />
+                <element signature="e#23#200#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/corotines/CorotinesCancelNot.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="640">
+              <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -36,17 +51,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/corotines/CortinesCancelExample.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+            <state relative-caret-position="220">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/corotines/CorotinesCancelNot.kt">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/corotines/ClosingCorotinesResources.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/corotines/DispacherExample.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="260">
-              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+              <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -77,17 +101,20 @@
         <option value="$PROJECT_DIR$/src/com/scopping/function/MyData.kt" />
         <option value="$PROJECT_DIR$/src/com/scopping/function/MySchool.kt" />
         <option value="$PROJECT_DIR$/src/com/scopping/function/Schopping.kt" />
-        <option value="$PROJECT_DIR$/src/com/corotines/CorotinesExample.kt" />
         <option value="$PROJECT_DIR$/src/com/corotines/CortinesCancelExample.kt" />
         <option value="$PROJECT_DIR$/src/com/corotines/CorotinesCancelNot.kt" />
+        <option value="$PROJECT_DIR$/src/com/corotines/ClosingCorotinesResources.kt" />
+        <option value="$PROJECT_DIR$/src/com/corotines/CorotinesExample.kt" />
+        <option value="$PROJECT_DIR$/src/com/corotines/DispacherExample.kt" />
+        <option value="$PROJECT_DIR$/src/com/corotines/SuncCorrotines.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1798" />
-    <option name="y" value="-312" />
-    <option name="width" value="1026" />
-    <option name="height" value="687" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1310" />
+    <option name="y" value="-227" />
+    <option name="width" value="1210" />
+    <option name="height" value="983" />
   </component>
   <component name="ProjectId" id="1S6uJy62TfCBwFxmSgzSI9XQVXA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -158,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.corotines.CorotinesCancelNotKt">
+  <component name="RunManager">
     <configuration type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="FirstProject" />
       <option name="VM_PARAMETERS" value="" />
@@ -172,14 +199,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.collection.MapExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.corotines.ClosingCorotinesResourcesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="FirstProject" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.collection.MapExampleKt" />
+      <option name="MAIN_CLASS_NAME" value="com.corotines.ClosingCorotinesResourcesKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -198,19 +225,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.corotines.CorotinesExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="FirstProject" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.corotines.CorotinesExampleKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="com.corotines.CortinesCancelExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="FirstProject" />
       <option name="VM_PARAMETERS" />
@@ -224,33 +238,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.scopping.function.SchoppingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.corotines.DispacherExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="FirstProject" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.scopping.function.SchoppingKt" />
+      <option name="MAIN_CLASS_NAME" value="com.corotines.DispacherExampleKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.corotines.SuncCorrotinesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="FirstProject" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.corotines.SuncCorrotinesKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.com.collection.MapExampleKt" />
-      <item itemvalue="Kotlin.com.scopping.function.SchoppingKt" />
-      <item itemvalue="Kotlin.com.corotines.CorotinesExampleKt" />
+      <item itemvalue="Kotlin.com.corotines.SuncCorrotinesKt" />
       <item itemvalue="Kotlin.com.corotines.CortinesCancelExampleKt" />
       <item itemvalue="Kotlin.com.corotines.CorotinesCancelNotKt" />
+      <item itemvalue="Kotlin.com.corotines.ClosingCorotinesResourcesKt" />
+      <item itemvalue="Kotlin.com.corotines.DispacherExampleKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.corotines.SuncCorrotinesKt" />
+        <item itemvalue="Kotlin.com.corotines.DispacherExampleKt" />
+        <item itemvalue="Kotlin.com.corotines.ClosingCorotinesResourcesKt" />
         <item itemvalue="Kotlin.com.corotines.CorotinesCancelNotKt" />
         <item itemvalue="Kotlin.com.corotines.CortinesCancelExampleKt" />
-        <item itemvalue="Kotlin.com.corotines.CorotinesExampleKt" />
-        <item itemvalue="Kotlin.com.scopping.function.SchoppingKt" />
-        <item itemvalue="Kotlin.com.collection.MapExampleKt" />
       </list>
     </recent_temporary>
   </component>
@@ -268,23 +295,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-312" width="1936" height="1066" extended-state="6" />
+    <frame x="1310" y="-227" width="1210" height="983" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14072494" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22956522" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24651662" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993559" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.048309177" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.03215434" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32583067" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -354,23 +381,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/corotines/CorotinesExample.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-          <folding>
-            <element signature="e#23#163#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/corotines/CortinesCancelExample.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.3.2/kotlinx-coroutines-core-1.3.2.jar!/kotlinx/coroutines/CoroutineScopeKt.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -380,8 +390,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/corotines/CorotinesCancelNot.kt">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/corotines/CortinesCancelExample.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/corotines/DispacherExample.kt">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/corotines/ClosingCorotinesResources.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/corotines/SuncCorrotines.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="30" column="44" lean-forward="true" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+          <folding>
+            <element signature="e#23#200#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
