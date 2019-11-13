@@ -9,6 +9,8 @@ sealed class BasicScreenState {
 }
 
 fun main (array: Array<String>){
+
+
     var basicScreenState: BasicScreenState? = null
 
     var myArray = arrayOf(1,2,3)
