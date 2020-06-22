@@ -133,12 +133,6 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="165" />
-    <option name="y" value="14" />
-    <option name="width" value="1210" />
-    <option name="height" value="983" />
-  </component>
   <component name="ProjectId" id="1S6uJy62TfCBwFxmSgzSI9XQVXA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -427,6 +421,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="807" y="425" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1592856074236">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state x="807" y="425" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1920.1015@0.23.1920.1015" timestamp="1592856074236" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

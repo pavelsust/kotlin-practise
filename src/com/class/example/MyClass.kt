@@ -24,7 +24,6 @@ class MyClass constructor(firstName: String) {
         println(checkNumber)
     }
 
-
     fun checkSchool() {
         if (schoolName.equals(collegeName)) {
             println("Ya match")
